@@ -1,0 +1,36 @@
+body{
+    background-color:rgb(228, 189, 218);
+    text-align: center;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1{color:darkblue;  }
+table {
+    background-color:rgb(253, 247, 195);
+    border-collapse: collapse;
+    margin-bottom: 100px;
+  }
+  .center{
+    margin: 0px auto;
+  }
+
+  #he,#ce{
+    border-bottom:coral solid 5px;
+    
+  }
+  .a{
+      border-right: solid coral 5px;
+    }
+  .b{
+      border-right: solid coral 5px;
+  }
+
+#whowin{
+  color: rgb(255, 255, 255);
+  margin:0 auto ;
+  margin-top: 20px;
+  font-family: 'Lobster', cursive;
+  font-weight: bold;
+  width:300px;
+  background-color: rgb(184, 55, 55);
+}
